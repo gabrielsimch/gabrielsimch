@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo Gabriel Simch. 👋
 
-- 👨‍💻 Sou estudante de Análise e Desenvolvimento de Sitemas em busca de estágio na área
+- 👨‍💻 Sou estudante de Análise e Desenvolvimento de Sitemas
 - 🎨 Sou ilustrador e amante de cultura pop
 - 🥋 Sou karateka e apaixonado por praticar exercício físico
 - ℹ️ Meus pronomes são "ele/dele"
